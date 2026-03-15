@@ -1,5 +1,5 @@
 # 🎲 HighOrLow — Soroban Smart Contract on Stellar
-
+<img width="1008" height="900" alt="Contract ScreenShort" src="https://github.com/Abhishekyadav26/profiles/blob/main/assets/screen.png" />
 
 > A provably fair on-chain guessing game built with Rust + Soroban SDK on the Stellar network.
 
