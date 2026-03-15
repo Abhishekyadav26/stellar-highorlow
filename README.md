@@ -4,6 +4,8 @@
 
 ---
 
+
+
 ## 📌 Project Description
 
 **HighOrLow** is a minimalist on-chain betting game deployed on the **Stellar blockchain** using **Soroban** smart contracts. Players wager XLM (in stroops) on whether a hidden number is **High (> 50)** or **Low (≤ 50)**. If correct, the house pays out **1.8×** the bet. If wrong, the house collects the wager.
